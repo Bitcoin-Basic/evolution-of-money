@@ -16,7 +16,7 @@
       <div class="d-flex w-100">
         <!-- Personalised text -->
         <form name="text_Marquee" class="flex-grow-1">
-          <input name="text" class="form-control bg-primary text-white border-0" value="Welcome to my personal pages..... Do you have a source code, articles, tutorials, web links, and books to share? You can write your own content here. You can even have your own blog.... Submit now!!!" disabled />
+          <input name="text" class="form-control bg-primary text-white border-0" value="Welcome to my personal pages..... Do you have a source code, articles, tutorials, web links, and books to share? You can               write your own content here. You can even have your own blog.... Submit now!!!" disabled />
         </form>
 
         <!-- Links aligned to the right -->
