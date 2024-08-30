@@ -1,7 +1,5 @@
 
 # Evolution of Money
-[Download the PDF version](evolution of money by anil - Vietnamese.pdf)
-
 
 ## Table of Contents
 
@@ -10,36 +8,6 @@
 - Gold & Gold-backed Money
 - Fiat Money
 - Bitcoin
-
-## Slides  
-<div class="slideshow-container">
-  <div class="mySlides fade">
-    <img src="path/to/your/image1.jpg" style="width:100%">
-  </div>
-  <div class="mySlides fade">
-    <img src="path/to/your/image2.jpg" style="width:100%">
-  </div>
-  <div class="mySlides fade">
-    <img src="path/to/your/image3.jpg" style="width:100%">
-  </div>
-</div>
-
-<script>
-var slideIndex = 0;
-showSlides();
-
-function showSlides() {
-  var i;
-  var slides = document.getElementsByClassName("mySlides");
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";  
-  }
-  slideIndex++;
-  if (slideIndex > slides.length) {slideIndex = 1}    
-  slides[slideIndex-1].style.display = "block";  
-  setTimeout(showSlides, 2000); // Change image every 2 seconds
-}
-</script>
 
 ## Introduction
 
@@ -60,6 +28,42 @@ Examples of raw money:
 - Commodities like grains
 
 ---
+## Image Slideshow
+
+Here is an example of an embedded slideshow in Markdown:
+
+<div class="slideshow-container">
+  <div class="mySlides fade">
+    <img src="evolution of money by anil - Vietnamese (2)_00001.jpg" style="width:100%">
+  </div>
+  <div class="mySlides fade">
+    <img src="evolution of money by anil - Vietnamese (2)_00002.jpg" style="width:100%">
+  </div>
+  <div class="mySlides fade">
+    <img src="evolution of money by anil - Vietnamese (2)_00003.jpg" style="width:100%">
+  </div>
+  <div class="mySlides fade">
+    <img src="evolution of money by anil - Vietnamese (2)_00004.jpg" style="width:100%">
+  </div>
+</div>
+
+<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  slides[slideIndex-1].style.display = "block";  
+  setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
+</script>
+
 
 ## Precious Metal Money
 
@@ -141,5 +145,6 @@ CBDCs aim to compete in the digital age, offering a centralized, non-permissionl
 ## Conclusion
 
 Bitcoin is designed for the digital age—open-source and upgradeable, benefiting directly from the creativity and innovation of all its users and developers.
-# bitcoin
-Hi! this is my attempt to study bitcoin
+
+---
+
