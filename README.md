@@ -1,3 +1,40 @@
+<!-- Include the navbar at the top of the document -->
+<nav class="sb-topnav navbar navbar-expand navbar-dark bg-primary">
+  <!-- Navbar Brand-->
+  <a class="navbar-brand ps-3" href="index.html">Anh La</a>
+  <!-- Sidebar Toggle-->
+  <button class="btn btn-link btn-sm order-1 order-lg-0 me-4 me-lg-0" id="sidebarToggle" href="#!"><i class="fas fa-bars"></i></button>
+  <!-- Navbar Search-->
+  <div class="container-fluid">
+    <!--toggle button-->
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    
+    <!-- Top navbar content -->
+    <div class="collapse navbar-collapse justify-content-end" id="navbarText">
+      <div class="d-flex w-100">
+        <!-- Personalised text -->
+        <form name="text_Marquee" class="flex-grow-1">
+          <input name="text" class="form-control bg-primary text-white border-0" value="Welcome to my personal pages..... Do you have a source code, articles, tutorials, web links, and books to share? You can write your own content here. You can even have your own blog.... Submit now!!!" disabled />
+        </form>
+
+        <!-- Links aligned to the right -->
+        <button class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Dropdown
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="#">My Views</a></li>
+            <li><a class="dropdown-item" href="#">Projects</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="login">Login</a></li>
+          </ul>
+        </button>
+      </div>
+    </div>
+  </div>   
+</nav>
 
 # Evolution of Money
 
