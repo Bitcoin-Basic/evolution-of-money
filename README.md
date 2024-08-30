@@ -11,6 +11,36 @@
 - Fiat Money
 - Bitcoin
 
+## Slides  
+<div class="slideshow-container">
+  <div class="mySlides fade">
+    <img src="path/to/your/image1.jpg" style="width:100%">
+  </div>
+  <div class="mySlides fade">
+    <img src="path/to/your/image2.jpg" style="width:100%">
+  </div>
+  <div class="mySlides fade">
+    <img src="path/to/your/image3.jpg" style="width:100%">
+  </div>
+</div>
+
+<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  slides[slideIndex-1].style.display = "block";  
+  setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
+</script>
+
 ## Introduction
 
 > "The idea that the government creates money is a common misconception. In reality, money is a naturally occurring phenomenon. It simply represents the most widely traded commodity in all markets."  
