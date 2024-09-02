@@ -1,10 +1,8 @@
 [Back to Home page](https://anh.contact)
 
-# Evolution of Money
+# Quy trình tiến hóa của tiền
 ---
-## Image Slideshow
-
-Here is an example of an embedded slideshow in Markdown:
+## Slideshow
 
 <div class="slideshow-container">
   <div class="mySlides fade">
@@ -142,112 +140,22 @@ function showSlides(n) {
 }
 </script>
 
-## Table of Contents
+## Tóm tắt nội dung
 
-- Raw Money
-- Precious Metal Money
-- Gold & Gold-backed Money
-- Fiat Money
-- Bitcoin
+1. **Tiền qua các thời kỳ**: Tiền đã tồn tại từ lâu trước khi có nền kinh tế trao đổi hàng hóa. Ban đầu, tiền có thể là vỏ sò, công cụ, hoặc hàng hóa như ngũ cốc.
 
-## Introduction
+2. **Tiền kim loại quý**: Vàng và bạc trở thành tiền nhờ vào sự quý hiếm và độ bền của chúng so với các loại tiền khác.
 
-> "The idea that the government creates money is a common misconception. In reality, money is a naturally occurring phenomenon. It simply represents the most widely traded commodity in all markets."  
-— Robert Breedlove
+3. **Tiền giấy dựa trên vàng**: Khi thương mại phát triển, việc vận chuyển vàng trở nên rủi ro. Các giấy biên nhận có thể đổi lấy vàng ra đời để thay thế.
 
----
+4. **Tiền pháp định**: Sau khi hệ thống Bretton Woods sụp đổ, tiền pháp định không còn dựa trên bất kỳ tài sản nào. Tiền chỉ có giá trị nhờ sự công nhận của nhà nước.
 
-## Raw Money
+5. **Thời đại kỹ thuật số**: Sự phát triển của mạng lưới kỹ thuật số đã dẫn đến việc sử dụng tiền điện tử, trong đó Bitcoin là một ví dụ nổi bật, cho phép giao dịch mà không cần bên thứ ba.
 
-"Money existed long before the advent of trade economies. It served a purpose even before trade and was more significant. Money greatly improved the exchange of small goods by reducing the need for credit."  
-— Nick Szabo (Source: The Origins of Money)
+6. **Các đặc tính của tiền**: Tiền cần có tính khan hiếm, có thể chia nhỏ, dễ vận chuyển, bền bỉ, và được chấp nhận rộng rãi.
 
-Examples of raw money:
-- Shells
-- Tools
-- Arrows
-- Commodities like grains
+7. **Tiền kỹ thuật số do ngân hàng trung ương phát hành (CBDC)**: CBDC là tiền kỹ thuật số do nhà nước quản lý, với khả năng kiểm soát và giám sát cao hơn.
 
-## Precious Metal Money
-
-### Gold
-
-- Example: Gold Daric (c. 490 BC)
-
-### Silver
-
-- Example: Silver Siglos Type I (c. 520-505 BC)
-
-> "As technology advanced, particularly in metallurgy, humans developed better forms of money."  
-— Saifedean Ammous (The Bitcoin Standard)
-
-The rarity of metals due to the relative difficulty in production, combined with their durability compared to shells, grains, and beads, contributed significantly to their value.
-
----
-
-## Gold-backed Paper Money
-
-As trade expanded, transporting large quantities of gold became risky. Receipts (redeemable for gold) offered a convenient solution for reputable banks.
-
-> "When a person stores goods in a warehouse, they receive a receipt and pay the warehouse owner a fee for the storage service. The person retains ownership of the goods, while the warehouse owner merely holds them. When the receipt is presented, the goods must be returned to the owner."  
-— Murray Rothbard (Man, Economy, and State)
-
----
-
-## Fiat Money
-
-After the collapse of the Bretton Woods system, fiat money, which cannot be directly exchanged for a fixed amount of any asset, became prevalent. 
-
-> "U.S. Federal Reserve notes are not redeemable in gold, silver, or any other commodity, and are not backed by anything."  
-— U.S. Department of the Treasury
-
-Fiat money is now the standard, where its utility is enforced by law, and it's the only currency recognized for tax payments.
-
----
-
-## The Digital Age
-
-The rise of digital money began with the development of digital networks and personal devices, which made payment protocols easier to standardize.
-
-### Credit Cards
-
-The invention of credit cards led to widespread consumer borrowing, shifting priorities towards short-term consumption over long-term investment or saving.
-
----
-
-## Bitcoin
-
-Bitcoin represents a breakthrough in digital currency, allowing for a decentralized, end-to-end system without third-party involvement. Previous attempts to create digital currencies faced challenges that Bitcoin overcame.
-
-> "I’ve been working on a new electronic cash system that’s fully peer-to-peer, with no trusted third party."  
-— Satoshi Nakamoto
-
----
-
-## Key Properties of Money
-
-According to Robert Breedlove, money, as the most widely traded commodity in an economy, has five important characteristics:
-
-1. **Scarcity**: Difficult to produce, which limits supply and reduces value depreciation.
-2. **Divisibility**: Can be divided into smaller units.
-3. **Portability**: Easy to transport from one place to another.
-4. **Durability**: Not easily damaged and can be stored over time.
-5. **Acceptability**: Widely accepted in transactions and easily verifiable.
-
----
-
-## CBDCs (Central Bank Digital Currencies)
-
-CBDCs aim to compete in the digital age, offering a centralized, non-permissionless infrastructure. Their development also seeks to increase oversight and transaction censorship.
-
-> "The key difference with CBDCs is that the central bank will have absolute control."  
-— Agustin Carstens (General Manager, Bank for International Settlements)
-
----
-
-## Conclusion
-
-Bitcoin is designed for the digital age—open-source and upgradeable, benefiting directly from the creativity and innovation of all its users and developers.
-
+8. **Bitcoin**: Bitcoin được thiết kế cho thời đại kỹ thuật số, là hệ thống phi tập trung và không cần sự can thiệp của bên thứ ba.
 ---
 
